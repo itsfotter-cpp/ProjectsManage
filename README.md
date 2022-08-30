@@ -1,6 +1,7 @@
 # ProjectsManage
 
-It is an Android application written entirely in Kotlin.
+It is an Android application written entirely in Kotlin, where it is used Firebase as database.
+
 It is a platform where users can create projects for work or personal.
 With ProjectsManage you can:
 - Create bulletin boards to organize whatever you're working on
